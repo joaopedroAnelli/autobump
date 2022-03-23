@@ -1,1 +1,1 @@
-const a = 'minor';
+const a = 'minor2';
