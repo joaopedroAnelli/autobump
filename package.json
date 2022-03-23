@@ -1,0 +1,9 @@
+{
+  "name": "autobump",
+  "version": "1.0.0",
+  "description": "Lets Bump!",
+  "main": "index.js",
+  "repository": "https://github.com/joaopedroAnelli/autobump.git",
+  "author": "joaopedroAnelli <joaopedroanelli99@gmail.com>",
+  "license": "MIT"
+}
