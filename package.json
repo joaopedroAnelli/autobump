@@ -1,6 +1,6 @@
 {
   "name": "autobump",
-  "version": "1.0.0",
+  "version": "v1.0.0",
   "description": "Lets Bump!",
   "main": "index.js",
   "repository": "https://github.com/joaopedroAnelli/autobump.git",
